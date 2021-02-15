@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yifan Wang - ETH Zurich</title>
-    <link>https://yifita.github.io/</link>
-      <atom:link href="https://yifita.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <title>Mustafa Ustuner - ETH Zurich</title>
+    <link>https://ustuner.github.io/</link>
+      <atom:link href="https://ustuner.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yifan Wang - ETH Zurich</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yifita.github.io/img/icon-192.png</url>
-      <title>Yifan Wang - ETH Zurich</title>
-      <link>https://yifita.github.io/</link>
+      <url>https://ustuner.github.io/img/icon-192.png</url>
+      <title>Mustafa Ustuner - ETH Zurich</title>
+      <link>https://ustuner.github.io/</link>
     </image>
     
     <item>
